@@ -56,9 +56,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['917561852787'] //ur owner number
 global.ownername = "FLASH SER" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
+global.ytname = "YT: " //ur yt chanel name
 global.socialm = "GitHub: FLASH" //ur github or insta name
-global.location = "India, Kerala, kannur" //ur location
+global.location = "India" //ur location
 
 //bot bomdy 
 global.owner = ['917561852787']
@@ -66,7 +66,7 @@ global.ownertag = '917561852787' //ur tag number
 global.botname = '𝛪𝑇𝑆 𝛭𝛯 𝐹𝐿𝛥𝑆𝛨 V4' //ur bot name
 global.linkz = "https://youtube.com/channel/UCX916Hy3QNHslr3DEa12Dhw" //your theme url which will be displayed on whatsapp
 global.websitex = "" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.botscript = 'https://github.com/Adiamith/CheemsBot-MD4?organization=Adiamith&organization=Adiamith' //script link
 global.reactmoji = "🔥" //ur menu react emoji
 global.themeemoji = "⚡" //ur theme emoji
 global.packname = "made by FLASH bot\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
